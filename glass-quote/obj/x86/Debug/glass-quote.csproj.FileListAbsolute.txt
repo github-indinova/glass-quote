@@ -1,7 +1,7 @@
 C:\Users\krishan\Documents\GitHub\glass-quote\glass-quote\bin\Debug\glass-quote.exe
 C:\Users\krishan\Documents\GitHub\glass-quote\glass-quote\bin\Debug\glass-quote.pdb
-C:\Users\krishan\Documents\GitHub\glass-quote\glass-quote\obj\x86\Debug\glass_quote.Form1.resources
 C:\Users\krishan\Documents\GitHub\glass-quote\glass-quote\obj\x86\Debug\glass_quote.Properties.Resources.resources
 C:\Users\krishan\Documents\GitHub\glass-quote\glass-quote\obj\x86\Debug\glass-quote.csproj.GenerateResource.Cache
 C:\Users\krishan\Documents\GitHub\glass-quote\glass-quote\obj\x86\Debug\glass-quote.exe
 C:\Users\krishan\Documents\GitHub\glass-quote\glass-quote\obj\x86\Debug\glass-quote.pdb
+C:\Users\krishan\Documents\GitHub\glass-quote\glass-quote\obj\x86\Debug\glass_quote.FormMain.resources
