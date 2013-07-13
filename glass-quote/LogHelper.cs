@@ -13,7 +13,7 @@ namespace glass_quote
     class LogHelper
     {
         #region Data Members
-        public static readonly ILog testLogger = LogManager.GetLogger("TestApplication");
+        public static readonly ILog glassQuoteLogger = LogManager.GetLogger("GlassQuote");
         #endregion
 
         public LogHelper()

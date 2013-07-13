@@ -19,6 +19,7 @@ namespace glass_quote
 
         private void FormMain_Load(object sender, EventArgs e)
         {
+            LogHelper.glassQuoteLogger.Info("App started");
             backgroundWorkerLicense.DoWork += new DoWorkEventHandler(licenseCheck);
             backgroundWorkerLicense.RunWorkerAsync();
         }
@@ -72,7 +73,7 @@ namespace glass_quote
             }
             catch (Exception e1)
             {
-                LogHelper.testLogger.Error(e1.ToString());
+                LogHelper.glassQuoteLogger.Error(e1.ToString());
                 // MessageBox.Show("License validation failed. Please contact krishan@indinovatechnologies.com", "License validation failure", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
                 // Application.Exit();
             }
