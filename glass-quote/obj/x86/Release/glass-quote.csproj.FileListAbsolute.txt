@@ -1,0 +1,9 @@
+C:\Users\krishan\Documents\GitHub\glass-quote\glass-quote\bin\Release\glass-quote.exe.config
+C:\Users\krishan\Documents\GitHub\glass-quote\glass-quote\bin\Release\glass-quote.exe
+C:\Users\krishan\Documents\GitHub\glass-quote\glass-quote\bin\Release\glass-quote.pdb
+C:\Users\krishan\Documents\GitHub\glass-quote\glass-quote\bin\Release\log4net.dll
+C:\Users\krishan\Documents\GitHub\glass-quote\glass-quote\obj\x86\Release\glass_quote.FormMain.resources
+C:\Users\krishan\Documents\GitHub\glass-quote\glass-quote\obj\x86\Release\glass_quote.Properties.Resources.resources
+C:\Users\krishan\Documents\GitHub\glass-quote\glass-quote\obj\x86\Release\glass-quote.csproj.GenerateResource.Cache
+C:\Users\krishan\Documents\GitHub\glass-quote\glass-quote\obj\x86\Release\glass-quote.exe
+C:\Users\krishan\Documents\GitHub\glass-quote\glass-quote\obj\x86\Release\glass-quote.pdb

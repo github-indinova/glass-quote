@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.backgroundWorkerLicense = new System.ComponentModel.BackgroundWorker();
             this.SuspendLayout();
             // 
             // FormMain
@@ -38,11 +39,15 @@
             this.Name = "FormMain";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Glass Depots USA - Quote Screen";
+            this.Load += new System.EventHandler(this.FormMain_Load);
             this.ResumeLayout(false);
 
         }
 
         #endregion
+
+        private System.ComponentModel.BackgroundWorker backgroundWorkerLicense;
+
     }
 }
 
