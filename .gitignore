@@ -1,4 +1,5 @@
 imp_docs/
+bin/
 
 # Excluding .suo file which is a Visual Studio file
 *.suo
