@@ -1,1 +1,4 @@
 imp_docs/
+
+# Excluding .suo file which is a Visual Studio file
+*.suo
