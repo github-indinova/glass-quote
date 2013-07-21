@@ -7,3 +7,4 @@ C:\Users\krishan\Documents\GitHub\glass-quote\glass-quote\obj\x86\Release\glass_
 C:\Users\krishan\Documents\GitHub\glass-quote\glass-quote\obj\x86\Release\glass-quote.csproj.GenerateResource.Cache
 C:\Users\krishan\Documents\GitHub\glass-quote\glass-quote\obj\x86\Release\glass-quote.exe
 C:\Users\krishan\Documents\GitHub\glass-quote\glass-quote\obj\x86\Release\glass-quote.pdb
+C:\Users\krishan\Documents\GitHub\glass-quote\glass-quote\obj\x86\Release\glass-quote.csprojResolveAssemblyReference.cache
